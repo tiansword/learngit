@@ -6,6 +6,11 @@ creating a new branch is quick.
 creating a new branch again in maste
 reating a new branch agai
 in
+
 test no-ff
 
 test bug
+test no-ffi
+
+test isssue -101
+
