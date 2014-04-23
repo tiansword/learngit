@@ -7,3 +7,5 @@ creating a new branch again in maste
 reating a new branch agai
 in
 test no-ff
+
+test bug
