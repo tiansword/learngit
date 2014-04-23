@@ -4,4 +4,6 @@ git has mutable index called stage.
 creating a new branch is quick.
 
 creating a new branch again in maste
-reating a new branch again
+reating a new branch agai
+in
+test no-ff
